@@ -1,0 +1,28 @@
+{
+    "user": [
+        {
+            "id": "1",
+            "name": "Aditya",
+            "email": "aditya_ranjan@gmail.com",
+            "mobileNo": "8093926227",
+            "status": "Active",
+            "Enabled": "enabled"
+        },
+        {
+            "id": "2",
+            "name": "Rahul",
+            "email": "aditya_ranjan@gmail.com",
+            "mobileNo": "8093926227",
+            "status": "Active",
+            "Enabled": "enabled"
+        },
+        {
+            "id": "3",
+            "name": "Shadow",
+            "email": "aditya_ranjan@gmail.com",
+            "mobileNo": "8093926227",
+            "status": "Active",
+            "Enabled": "enabled"
+        }
+    ]
+}

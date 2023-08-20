@@ -1,0 +1,60 @@
+{
+  "posts": [
+    {
+      "name": "aditya123",
+      "email": "superadmin@gami.com",
+      "mobileNo": "1111222",
+      "password": "123",
+      "confirmpassword": "123",
+      "id": 1
+    },
+    {
+      "name": "rahul",
+      "email": "rahul@yahhoo.com",
+      "mobileNo": "9898989898",
+      "password": "123234111",
+      "confirmpassword": "111111111",
+      "id": 2
+    },
+    {
+      "name": "asghg",
+      "email": "fuf@gmao.vom",
+      "mobileNo": "12334567",
+      "password": "123456",
+      "confirmpassword": "123567",
+      "id": 3
+    },
+    {
+      "name": "asfan",
+      "email": "asfasn@gaklcajk.com",
+      "mobileNo": "123445",
+      "password": "1233444",
+      "confirmpassword": "2344353",
+      "id": 4
+    },
+    {
+      "name": "qwert",
+      "email": "qwert@gmail.com",
+      "mobileNo": "1212121123",
+      "password": "123asd",
+      "confirmpassword": "123asd",
+      "id": 5
+    },
+    {
+      "name": "qaz",
+      "email": "qaz@gsh.com",
+      "mobileNo": "56363333",
+      "password": "123rt",
+      "confirmpassword": "asder",
+      "id": 6
+    },
+    {
+      "name": "kahgkfa",
+      "email": "jkajdg@hjga.com",
+      "mobileNo": "28585855",
+      "password": "hjf",
+      "confirmpassword": "trf6",
+      "id": 7
+    }
+  ]
+}
